@@ -4,9 +4,15 @@ Oficjalne repozytorium instalatorów programu Vela dla Windows 10 i 11 (x64).
 
 ## Pobieranie
 
-Instalatory będą udostępniane w sekcji [Releases](https://github.com/dzoyox/vela-releases/releases). Pierwsze wydanie jest w przygotowaniu.
+[Pobierz instalator Vela 1.4.0](https://github.com/dzoyox/vela-releases/releases/download/v1.4.0/Vela-Setup.exe) · [Informacje o wydaniu](https://github.com/dzoyox/vela-releases/releases/tag/v1.4.0) · [Sumy SHA-256](https://github.com/dzoyox/vela-releases/releases/download/v1.4.0/SHA256SUMS.txt)
 
-Po opublikowaniu wydania pobierz `Vela-Setup.exe`. Plik `SHA256SUMS.txt` pozwoli sprawdzić integralność pobranego instalatora. Samo pobranie instalatora nie zastępuje aktywacji kluczem licencyjnym.
+Instalator ma 108859438 bajtów. SHA-256:
+
+```text
+21945255d1f93a5627daa4a9d0564a3d80ea1a241bf1aec9331e2cef3a339816
+```
+
+Samo pobranie instalatora nie zastępuje aktywacji kluczem licencyjnym. Sprzedaż dostępu jest jeszcze przygotowywana.
 
 ## Program
 
